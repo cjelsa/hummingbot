@@ -88,7 +88,11 @@ coverage.xml
 .debug_console_ssh_host_key
 
 /conf_backup
+<<<<<<< HEAD
 
 # External SDK files
 /**/.chain_cookie
 /**/.injective_cookie
+=======
+conda-env/**
+>>>>>>> 201ccd266 (First commit)
